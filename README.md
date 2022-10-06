@@ -21,4 +21,4 @@ More than anything else I love learning, and technology is the best place to do 
 
 A lot of my interests are flavored by the amazing professors I have, the research I do for the ACI, and my club. All of these have led me to the decision to pursue computing as much as I can both in research and industry and improve my talents as far as they can go.
 
-As for my other hobbies I love to practice mixology and bartend for myself, play video games, read literature, and explore new places!
+As for my other hobbies I love to practice mixology and bartend for myself, play video games, read, and explore new places!
