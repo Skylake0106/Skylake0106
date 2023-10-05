@@ -11,7 +11,7 @@
 
 :email: **Email:** skyler.ruiter1@gmail.com
 
-:briefcase: [**Website**](https://skylerruiter.dev/){:target="_blank"}
+:briefcase: [**Website**](https://skylerruiter.dev/)
 
 :computer: **Discord:** Skylake01 (skylake01)
 
