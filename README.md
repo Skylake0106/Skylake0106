@@ -5,7 +5,7 @@
 * Undergraduate Researcher
 * President of GVSU CIS Computing Club
 * Applied Computing Institute Resident
-* 3.99 GPA
+* 3.97 GPA
 
 :world_map: **West Michigan**
 
